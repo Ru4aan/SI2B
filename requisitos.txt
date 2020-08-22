@@ -1,0 +1,4 @@
+O sistema funcionará da seguinte forma:
+O usuário ao instalar aplicativo deverá criar uma conta aonde
+terá seus dados cadastrais como(e-mail, número, usuario, senha) salvos, também haverá 
+diferentes opções de pagamento que o usuário poderá selecionar como(cartão(débito ou crédito) e dinheiro) e o preço maximo por viagem será de $ 10.00 Dólares. O app também irá contar com uma central de ajuda para o usuário.

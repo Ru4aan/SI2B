@@ -1,0 +1,1 @@
+Faremos testes de autenticação do usuário, testes de pagamento e de localização.
